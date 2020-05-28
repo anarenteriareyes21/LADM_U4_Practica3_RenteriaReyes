@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "543057353272",
+    "firebase_url": "https://practices-59f02.firebaseio.com",
+    "project_id": "practices-59f02",
+    "storage_bucket": "practices-59f02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543057353272:android:636e5803dcf6df37dd24cd",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u4_practica1_renteriareyes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543057353272-5m661t98do57s5l4u12fun6kbms9sosn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvuCMuPaN4etF1zfRPLphQhpWGazbOE4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543057353272-5m661t98do57s5l4u12fun6kbms9sosn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543057353272:android:e1741873d055a466dd24cd",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u4_practica1_renterireyes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543057353272-5m661t98do57s5l4u12fun6kbms9sosn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvuCMuPaN4etF1zfRPLphQhpWGazbOE4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543057353272-5m661t98do57s5l4u12fun6kbms9sosn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543057353272:android:45f17e6871ee68e5dd24cd",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u4_practica3_serviciosms_renteriareyes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543057353272-5m661t98do57s5l4u12fun6kbms9sosn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvuCMuPaN4etF1zfRPLphQhpWGazbOE4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543057353272-5m661t98do57s5l4u12fun6kbms9sosn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
